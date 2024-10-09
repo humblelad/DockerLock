@@ -1,0 +1,8 @@
+{
+  "protected_resources": {
+    "containers": [],
+    "images": [],
+    "volumes": [],
+    "networks": []
+  }
+}
